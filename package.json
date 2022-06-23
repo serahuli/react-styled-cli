@@ -1,0 +1,27 @@
+{
+  "name": "react-styled-cli",
+  "version": "1.0.0",
+  "description": "react styled-components cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serahuli/react-styled-cli.git"
+  },
+  "author": "丽霞 胡",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serahuli/react-styled-cli/issues"
+  },
+  "homepage": "https://github.com/serahuli/react-styled-cli#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.3.0",
+    "ora": "^6.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.3.0"
+  }
+}
